@@ -51,7 +51,7 @@ VOMASYS-meerecompany User Manual
 실행 방법
 --------
 
-#. ToF camera 드라이버 설치
+#. Cube-Eye 3D ToF depth camera 드라이버 설치
 #. PC 에 연결 후 ( I/F: USB ) 장치 인식 상태 확인 :menuselection:`제어판 --> 장치 관리자`
 #. `Git for Windows <https://git-scm.com/download/win>`__ 설치.
 
