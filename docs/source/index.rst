@@ -1,5 +1,5 @@
 *********************************
-VOMASYS-meerecompany User Manual
+VOMASYS-meerecompany User Manual ( written by 박진영 )
 *********************************
 
 .. contents:: Table of Contents
