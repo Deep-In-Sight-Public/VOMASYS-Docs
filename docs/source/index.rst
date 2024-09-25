@@ -3,7 +3,7 @@ VOMASYS-meerecompany User Manual
 *********************************
 
 .. image:: static/panel.png
-    :width: 50%
+    :width: 100%
 
 .. contents:: Table of Contents
 
