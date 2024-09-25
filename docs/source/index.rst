@@ -146,7 +146,7 @@ VOMASYS-meerecompany User Manual
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: execution
+   :caption: execution environment
    
    /exec_env/excution
    /exec_env/changelog
@@ -183,7 +183,7 @@ VOMASYS-meerecompany User Manual
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: operation
+   :caption: operation environment
    
    /op_env/operation
    /op_env/changelog
