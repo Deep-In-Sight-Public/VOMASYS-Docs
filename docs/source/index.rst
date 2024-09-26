@@ -71,7 +71,7 @@ VOMASYS-meerecompany User Manual
 
 .. tabs::
 
-    .. tab:: 실행 화면
+    .. tab:: 실행
         
         .. figure:: static/app.jpeg
 
@@ -89,7 +89,7 @@ VOMASYS-meerecompany User Manual
 
             택배물 부피 산정
 
-    .. tab:: 실행 흐름
+    .. tab:: 흐름
         
         .. figure:: static/flow.png
 
